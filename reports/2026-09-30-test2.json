@@ -1,0 +1,8 @@
+{
+  "type": "seo_log",
+  "date": "2026-09-30",
+  "entries": [
+    {"site": "테스트(2차 파이프라인 확인용)", "status": "applied", "category": "A", "detail": "(GitHub Actions 재테스트 - 확인 후 삭제해주세요)", "commit": "pipelinetest2"}
+  ],
+  "flagged": []
+}
