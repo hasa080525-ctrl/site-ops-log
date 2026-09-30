@@ -1,0 +1,44 @@
+name: Log SEO report to Sheet
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'reports/*.json'
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find the report file that changed
+        id: find
+        run: |
+          FILE=$(git diff --name-only HEAD^ HEAD -- 'reports/*.json' | tail -n1)
+          if [ -z "$FILE" ]; then
+            FILE=$(ls -t reports/*.json | head -n1)
+          fi
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+
+      - name: Send report to Google Sheet
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          REPORT_FILE: ${{ steps.find.outputs.file }}
+        run: |
+          if [ -z "$REPORT_FILE" ]; then
+            echo "No report file found, skipping."
+            exit 0
+          fi
+          echo "Sending $REPORT_FILE"
+          REDIRECT=$(curl -s -D - -o /dev/null -X POST "$APPS_SCRIPT_URL" \
+            -H "Content-Type: text/plain" \
+            --data-binary @"$REPORT_FILE" \
+            | grep -i '^location:' | sed 's/[Ll]ocation: //I' | tr -d '\r')
+          if [ -z "$REDIRECT" ]; then
+            echo "No redirect received from Apps Script; treating as failure."
+            exit 1
+          fi
+          curl -s "$REDIRECT"
