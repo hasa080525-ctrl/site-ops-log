@@ -1,0 +1,23 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-06",
+  "entries": [
+    {"site": "한글완전정복", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "코딩미", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "잉글리시이지", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "LK 엘케이", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "성공적인 창업", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "스터디123", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "1등급만들기(강진과외)", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "탄탄과외(강릉과외)", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "성적오름", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "국제학교전문과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "홍성과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "진주산청과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "영암과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "김해과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "나주과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""},
+    {"site": "전주과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (10/1 SEO 반영 유지)", "commit": ""}
+  ],
+  "flagged": ["통합관리 루틴이 서브에이전트 완료를 기다리지 않고 조기 종료되어, Part 3 시트 기록이 누락되었다가 이 리포트로 소급 기록됨 (원인은 수정 완료, 내일부터 정상 작동 예정)"]
+}
