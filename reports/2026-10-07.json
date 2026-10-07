@@ -1,0 +1,29 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-07",
+  "entries": [
+    {"site": "한글완전정복", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (메타/스키마/키워드 최신 상태 확인)", "commit": ""},
+    {"site": "코딩미", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (메타/스키마/키워드 최신 상태 확인)", "commit": ""},
+    {"site": "잉글리시이지", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (메타/스키마/키워드 최신 상태 확인)", "commit": ""},
+    {"site": "LK 엘케이", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (렌탈 금지 문구 등 재확인 완료)", "commit": ""},
+    {"site": "성공적인 창업", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (렌탈 금지 문구 등 재확인 완료)", "commit": ""},
+    {"site": "스터디123", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "1등급만들기(강진과외)", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "탄탄과외(강릉과외)", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "성적오름", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "국제학교전문과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (sitemap 유효성 확인)", "commit": ""},
+    {"site": "홍성과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "진주산청과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "영암과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "김해과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "나주과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "전주과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음", "commit": ""},
+    {"site": "안동과외", "status": "skipped", "category": "", "detail": "오늘 변경 필요 없음 (SEO 기준)", "commit": ""},
+    {"site": "⏱ 소요시간", "status": "info", "category": "", "detail": "총 7분 소요 (시작 09:02~종료 09:09, KST 기준)", "commit": ""}
+  ],
+  "flagged": [
+    "안동과외(ssam-pick): 뉴스가 2026-09-07 기사 1건뿐으로 약 30일 경과(21일 기준 초과) — Part 4 정상화 후 최우선 업데이트 필요",
+    "통합관리 루틴 Part 3이 site-ops-log 저장소에 대한 GitHub 앱 접근 거부(403)로 자동 push 실패 — 로컬 세션에서 수동 소급 기록. site-ops-log에 Claude GitHub App 설치/재연결 필요: https://github.com/apps/claude/installations/select_target",
+    "Part 4(뉴스 자동화): WebSearch는 정상 작동했지만 WebFetch가 실제 뉴스 도메인(지역 언론사, 위키피디아 등)에서 전부 EGRESS_BLOCKED로 막혀 기사 검증 불가 — 10/6에 WebSearch만 테스트하고 'WebFetch도 작동'으로 잘못 확정했던 게 원인. 검증 없이는 못 올리므로 오늘 전 사이트 뉴스 추가 보류(올바른 보수적 판단). 근본 해결 전까지 Part 4는 당분간 계속 0건일 가능성 높음"
+  ]
+}
