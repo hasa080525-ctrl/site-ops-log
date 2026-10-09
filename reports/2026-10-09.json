@@ -1,0 +1,32 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-09",
+  "entries": [
+    {"site": "한글완전정복", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(JSON-LD 3개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08, 1일 전)", "commit": ""},
+    {"site": "코딩미", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(3개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "잉글리시이지", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(3개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "LK 엘케이", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(2개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "성공적인 창업", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(2개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요(렌탈 없음·모델명 등 제약 재확인함, vendmachine 상호링크 유지 확인). 뉴스 최신(10/08)", "commit": ""},
+    {"site": "스터디123", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(3개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/06, 3일 전)", "commit": ""},
+    {"site": "1등급만들기(강진과외)", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(3개 유효, Service·areaServed 포함)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. /areas/ 미건드림. 뉴스 최신(10/06)", "commit": ""},
+    {"site": "탄탄과외(강릉과외)", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(3개 유효, Service·areaServed 포함)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. /areas/ 미건드림. 뉴스 최신(10/07, 2일 전)", "commit": ""},
+    {"site": "성적오름", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(3개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "국제학교전문과외", "status": "skipped", "category": "", "detail": "public/sitemap.xml 유효, news.ts 최신(10/08, 1일 전), vercel.json 확인 — 변경 불필요. 단, npm run type-check는 어제와 동일하게 tsconfig.app.json 'alwaysStrict=false' deprecated 오류(TS5107)로 실패(exit 1) — 오늘도 변경사항 없어 영향 없음(아래 flagged 참고)", "commit": ""},
+    {"site": "홍성과외", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(2개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "진주산청과외", "status": "skipped", "category": "", "detail": "sitemap/메타/OG/schema(2개 유효)/alt/canonical/robots.txt 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "영암과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema(areaServed:영암군 확인) 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "김해과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema(areaServed:김해시 확인) 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "나주과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 3일 전)", "commit": ""},
+    {"site": "전주과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 3일 전)", "commit": ""},
+    {"site": "안동과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "경주과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 어제 추가되어 31일 경과 이슈 해소됨)", "commit": ""},
+    {"site": "영천과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "영주과외", "status": "skipped", "category": "", "detail": "index/about/roadmap/schools/reviews/faq 전 페이지 메타·canonical·schema 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08)", "commit": ""},
+    {"site": "⏱ 소요시간", "status": "info", "category": "", "detail": "총 4분 소요 (시작 09:02~종료 09:07, KST 기준)", "commit": ""}
+  ],
+  "flagged": [
+    "Part 4(뉴스 자동화) 전체 보류, 2일 연속: WebSearch는 정상 작동했으나 WebFetch가 테스트한 모든 외부 도메인(google.com, en.wikipedia.org, twig24.com, gimhae.go.kr 등 뉴스/정부 사이트 포함)에서 EGRESS_BLOCKED로 전부 막혀 있어 기사 발행일·내용 검증이 불가능했음. 오늘 스케줄 프롬프트도 '2026-10-06 기준 WebFetch 정상 확인, 재테스트 불필요'라고 되어 있었으나 실제로는 어제(10/8)도 동일한 이유로 Part 4가 보류되었고 오늘도 재확인 결과 동일하게 막혀 있음 — 검증 없이는 기사를 올릴 수 없다는 원칙에 따라 20개 사이트 전체 뉴스 추가를 보류함(보수적 판단, 쿼터를 채우기 위해 기준을 낮추지 않음). 다음 실행 프롬프트의 'CONFIRMED WORKING' 전제를 실제 상태에 맞게 수정 필요.",
+    "Part 1/2 점검: 20개 저장소 전부 sitemap XML 유효, 뉴스 전부 21일 기준 이내(최대 3일 전), git status 깨끗함, CNAME/vercel.json 정상, 메타/OG/schema(JSON-LD 전부 유효)/alt/canonical/robots.txt/내부링크 전수 점검 결과 이상 없어 금일 적용한 SEO 변경사항 없음.",
+    "국제학교전문과외(global): tsconfig.app.json의 'alwaysStrict=false'가 deprecated 옵션(TS5107)으로 처리되어 npm run type-check가 2일 연속(10/8, 10/9) 실패 — 오늘도 이 저장소에 실제 변경이 필요하지 않아 영향 없었으나, 'type-check 실패 시 스킵' 규칙상 다음에 실제 SEO/뉴스 변경이 필요해지면 작업이 막힘. tsconfig.app.json에 '\"ignoreDeprecations\": \"6.0\"' 추가로 해결 가능 — 사용자 승인 후 수정 권장."
+  ]
+}
