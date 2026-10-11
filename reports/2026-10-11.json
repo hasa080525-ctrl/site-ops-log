@@ -1,0 +1,159 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-11",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 뉴스 검색(유아·초등 한글 미해득 관련) 진행했으나 검증 가능한 신규 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 초·중등 코딩교육 뉴스 검색했으나 10월 기준 적합 신규 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 상태 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 영어교육 정책 뉴스 검색했으나 적합한 최신 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(LocalBusiness+AdministrativeArea)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 자판기 업계 동향 검색했으나 시장조사 보고서류뿐, 검증 가능한 시의성 있는 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "applied",
+      "category": "A",
+      "detail": "index.html에 twitter:title/twitter:description 메타태그 누락 발견 및 추가(다른 19개 사이트는 모두 보유, 이 사이트만 twitter:card·twitter:image 2개뿐이었음). 렌탈 없음·실제 모델명 제약 재확인, vendmachine 상호링크 유지 확인. 뉴스 최신(10/08, 3일 전) — 카드결제수수료/소상공인 지원 뉴스 검색했으나 적합한 최신 기사 없어 뉴스는 보류.",
+      "commit": "2092ab2"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 5일 전). 검정고시 뉴스 검색했으나 7~8월 기사뿐, 10월 기준 적합 신규 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed·BreadcrumbList)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. /areas/ 미건드림. 뉴스 최신(10/06, 5일 전). 강진 지역 교육 뉴스 검색했으나 적합 기사 없어 보류. 지난 리포트의 roadmap.html 고아 페이지 의심은 오늘 재확인 결과 nav에서 전 페이지에 정상 링크되어 있음을 확인(문제 없음, 해소됨)",
+      "commit": ""
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed·BreadcrumbList)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. /areas/ 미건드림. 뉴스 최신(10/07, 4일 전). 강릉 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 전국 단위 교육정책(5등급제·고교학점제) 뉴스 검색 결과 가장 관련성 높은 기사가 7/28자로 신선도 기준(1~2개월) 벗어나 보류.",
+      "commit": ""
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "public/sitemap.xml 유효, news.ts 최신(10/08, 3일 전), 메타/OG/twitter/schema 전 페이지 양호 — 변경 불필요. 유학비자·국제학교 뉴스 검색했으나 적합 최신 기사 없어 보류. npm run type-check는 오늘도 tsconfig.app.json 'alwaysStrict=false' deprecated(TS5107)로 실패 — 변경 안 했으므로 영향 없음(flagged 참고, 기존 이슈 지속)",
+      "commit": ""
+    },
+    {
+      "site": "홍성과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 홍성 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "진주산청과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 진주·산청 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "영암과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 영암 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "김해과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 김해 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "나주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 5일 전). 나주 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "전주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 5일 전). 전주 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 안동 지역 교육 뉴스 검색(경북매일 등) 결과 기존 등재 기사와 중복되거나 적합한 신규 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 경주 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 영천교육지원청 고입설명회 기사(kbmaeil 20260922500319) 검색됐으나 기존 9/23자 등재 기사와 동일(이미 반영됨) 확인 후 중복으로 판단해 보류.",
+      "commit": ""
+    },
+    {
+      "site": "영주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap/robots.txt/메타/OG/twitter/schema(Service·areaServed)/alt/canonical 전수 점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 3일 전). 영주 지역 교육 뉴스 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 5분 소요 (시작 09:02~종료 09:07, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "Part 4(뉴스): 20개 사이트 전체에 대해 지역/주제별로 WebSearch 다중 검색(지역명+교육지원청/보도자료, 주제별 정책 키워드 등 20건 이상)을 시도했으나, 검증 가능하고(발행일 확인) 최근 1~2개월 이내이며 기존 등재 기사와 중복되지 않는 적합 기사를 하나도 찾지 못함. 영천(ssam-hub)에서 검색된 기사 1건은 이미 9/23자로 사이트에 반영되어 있던 기사와 동일함을 확인. WebFetch도 일부 테스트(daum.net)에서 'getaddrinfo ENOTFOUND'로 실패했으나 다른 작업에는 영향 없음(뉴스 신규 추가가 없어 본문 검증용 WebFetch 자체가 필요 없었음). 오늘은 0건 업데이트 — 기준을 낮춰 억지로 채우지 않음(정상적인 결과).",
+    "Part 1/2: 20개 저장소 전부 sitemap XML 유효, git status 깨끗함, CNAME/vercel.json 정상, 이미지 alt 누락 0건, 내부 링크 깨짐 0건. 매우 성숙한 SEO 상태 — 전수 점검 중 성공적인 창업(vansuccess)에서만 twitter:title/twitter:description 누락을 발견해 추가(나머지 19개 사이트는 전부 보유하고 있었음).",
+    "1등급만들기(강진과외): 10/10 리포트에 기록됐던 'roadmap.html 고아 페이지' 의심은 오늘 전 페이지 nav 링크를 재확인한 결과 재현되지 않음(정상적으로 연결되어 있음) — 해당 이슈는 해소된 것으로 보임, 추가 조치 불필요.",
+    "국제학교전문과외(global): tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107)로 npm run type-check가 오늘도 실패. 4일 연속(10/8~10/11) 동일 이슈이며 미해결 상태. tsconfig.app.json에 '\"ignoreDeprecations\": \"6.0\"' 추가로 해결 가능 — 사용자 승인 후 수정 권장(이번 실행에서는 이 저장소에 실제 변경이 필요 없어 영향 없었음)."
+  ]
+}
