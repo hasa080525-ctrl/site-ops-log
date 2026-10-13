@@ -1,0 +1,159 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-13",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/OG/schema(3건)/robots.txt 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 유아·초등 한글교육 뉴스 검색했으나 10월 기준 신규 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/키워드/canonical/schema(3건) 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 초·중등 코딩교육 뉴스 재확인했으나 신규 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/OG/schema(3건) 재점검 결과 이미 최신 — 변경 불필요. 홈비지트 없음(화상/전화 전용) 제약 재확인, 위반 없음. 뉴스 최신(10/12, 1일 전). 초중고 영어 뉴스 재검색했으나 신규 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/canonical/schema(2건) 재점검 결과 이미 최신 — 변경 불필요. vansuccess 상호링크(5건) 정상 확인. 뉴스 최신(10/08, 5일 전). 무인 자판기·키오스크 업계 동향 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema(2건) 재점검 결과 이미 최신 — 변경 불필요. 렌탈 없음·실제 모델명(KIS-1020/KIS-8310/KIS-BTR 1100/Fiserv MPOS-1901AE) 제약 및 KIS-1420 미사용 재확인, vendmachine 상호링크(5건) 정상. 뉴스 최신(10/08, 5일 전). 카드결제수수료·소상공인 지원정책 재검색했으나 전국 단위 신규 기사 없고 지자체별 기사만 확인되어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/canonical/schema(3건) 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/12, 1일 전). 검정고시(초졸/중졸/고졸) 뉴스 재검색했으나 8월 시행 관련 기사뿐 10월 기준 신규 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt 재점검, /areas/ 미건드림 — 이미 최신, 변경 불필요. 타지역명 잔존 여부 재검사(영암/김해/나주 등 타 사이트 지역명) 결과 없음. 뉴스 최신(10/06, 7일 전). 강진 지역 교육 뉴스 2차례 검색했으나 10월 기준 지역명 일치 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt 재점검, /areas/ 미건드림 — 이미 최신, 변경 불필요. 뉴스 최신(10/07, 6일 전). 강릉 지역 교육 뉴스 2차례 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "A",
+      "detail": "index.html meta keywords 태그가 수일간 누적되어 478개(약 11KB, 지역×학년×과목 조합 등 중복성 높은 롱테일 과다)로 비대해진 것을 발견 — 핵심 서비스/학년/과목/형태/지역/입시 용어와 실제 차별점을 반영한 127개로 정리(키워드 추가가 아닌 정리/축소, 키워드스터핑 방지 차원). sitemap.xml 홈 lastmod도 10/13으로 갱신. 뉴스 최신(10/12, 1일 전). 전국 초중고 교육정책 뉴스 재검색 — 10/6자 국정감사 이슈 분석(유보통합·영유아 사교육 대책 등) 확인했으나 이미 존재하는 '국정감사 수시 원서접수·수능 문항거래' 기사와 주제 중복 우려로 보류.",
+      "commit": "cd5a09e"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "React/Vite SPA 메타(페이지별 title/description/OG/schema) 재점검 결과 이미 최신 — 변경 불필요. ⚠️ npm run type-check가 tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107)로 계속 실패 — 오늘도 이 저장소에는 실제 코드 변경이 필요 없어 영향 없었으나 미해결 상태로 재플래그. 뉴스 최신(10/12, 1일 전). 국제학교/IB/AP/SAT/유학비자 뉴스 재검색했으나 한국 관련 신규 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "홍성과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 홍성 지역 교육 뉴스 재검색했으나 신규 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "진주산청과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 진주·산청 지역 교육 뉴스 2차례 검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "영암과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt 및 BreadcrumbList(schools/roadmap/about/reviews/news/faq) 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 영암 지역 교육 뉴스 2차례 검색했으나 10월 기준 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "김해과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/12, 1일 전). 김해 지역 교육 뉴스 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "나주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 7일 전). 나주 지역 교육 뉴스 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "전주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/06, 7일 전). 전주 지역 교육 뉴스 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 안동 지역 교육 뉴스 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 경주 지역 교육 뉴스 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 영천 지역 교육 뉴스 재검색했으나 유일한 후보(hangyo.com 10/3자 '미소캠페인')는 WebFetch 장애로 날짜·내용 검증 불가해 반영 보류.",
+      "commit": ""
+    },
+    {
+      "site": "영주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/canonical/schema/alt/BreadcrumbList 재점검 결과 이미 최신 — 변경 불필요. 뉴스 최신(10/08, 5일 전). 영주 지역 교육 뉴스 재검색했으나 적합 기사 없어 보류.",
+      "commit": ""
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 9분 소요 (시작 09:02~종료 09:11, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "Part 1 복구: 실행 시작 시 startse/codingme/englisheasy/vendmachine/vansuccess/study123/extracurricular/privatelesson/shcool12/easyiil/easysss/global 12개 저장소 전체가 detached HEAD 상태였음(과거 특정 커밋을 checkout한 상태로 남아있었던 것으로 추정). git fetch 후 branch -f main HEAD; checkout main으로 전체 복구, origin/main과 커밋 해시 완전 일치 확인 완료. 신규 clone 8개(class-plus/study-fit/1on1-edu/my-teacher/ssam-pick/study-bridge/ssam-hub/gwaoe-moa) 및 site-ops-log는 정상 main 브랜치 상태였음.",
+    "⚠️ 중대 — Part 4(뉴스) 검증 도구 장애: 이번 실행에서 WebFetch 툴이 GitHub 등 화이트리스트 도메인 외의 모든 일반 웹사이트(hangyo.com, kbmaeil.com, 심지어 google.com/naver.com)에 대해 'getaddrinfo ENOTFOUND' / 'unable to fetch'로 전부 실패함. 이 실행 프롬프트에 적힌 'WebFetch는 2026-10-06 기준 확인된 정상 작동 도구'라는 전제가 현재는 성립하지 않는 것으로 보임(환경의 네트워크 정책이 GitHub/패키지 레지스트리 등으로 제한된 것으로 추정). WebSearch는 정상 작동했으나, 뉴스 추가 전 필수 검증 단계(기사 실제 발행일·내용 확인)를 수행할 방법이 없어, 영천(ssam-hub)에서 발견된 유력 후보 기사 1건을 포함해 오늘은 뉴스를 '검증 불가'로 전부 보류함. 이는 '적합 기사가 없어서'가 아니라 '검증 도구가 막혀서'이므로 다음 실행 전 환경의 네트워크 접근 범위를 점검/확대할 필요가 있음.",
+    "국제학교전문과외(global): tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107)로 npm run type-check가 계속 실패 중. tsconfig.app.json에 '\"ignoreDeprecations\": \"6.0\"' 추가로 해결 가능 — 사용자 승인 후 수정 권장(이번 실행에서도 이 저장소에 실제 변경이 필요 없어 영향 없었음).",
+    "Sheet(site-ops-log 외부) news_log POST: 오늘은 신규 뉴스 추가가 0건이라 POST 대상 자체가 없었음(해당 없음)."
+  ]
+}
