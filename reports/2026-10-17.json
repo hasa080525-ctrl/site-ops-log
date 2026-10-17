@@ -1,0 +1,178 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-17",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1: detached HEAD로 시작 → branch -f main HEAD 후 checkout main으로 복구, origin/main과 일치 확인. git clean, sitemap 유효, CNAME 정상. Part2 SEO: title/description/canonical/OG/twitter/schema/alt/robots.txt 재점검 — 이미 최신이라 변경 불필요. Part4 뉴스: 유아·초등 한글·문해력 10월 신규 기사 재검색(교사 문해력 실태조사 10/7~8 보도 등 확인) 했으나 기존 기사와 중복되거나 날짜 불명확하여 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 오늘로 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "0ea5a33"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 초·중등 코딩·AI교육 신규 기사 재검색(광주 AI교육원 연수, 김포 AI·SW 경진대회 등 확인)했으나 날짜 불명확/기존 주제 중복으로 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "95cebdc"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 수능영어·영어교육 신규 기사 재검색(2027학년도 수능 11/19 시행 기조 등 확인)했으나 기존 10/16 기사와 주제 중복되어 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "39fbb77"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "applied",
+      "category": "D(이미지 최적화)",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: touch-ui.jpg, customize.jpg 2개 이미지에 loading 속성이 빠져있던 것을 발견 — 동일 패턴의 다른 포인트 이미지들처럼 loading=\"lazy\" 추가(코어 웹 바이탈 개선). Part4 뉴스: 무인자판기·소상공인 창업 신규 기사 재검색(시장조사 보고서류만 확인, 교육 앵글 배제)했으나 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "669e463, d4097db"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구; 렌탈 서비스 없음·실제 모델명 KIS-1020/KIS-8310/KIS-BTR 1100/Fiserv MPOS-1901AE 제약 재확인, 위반 없음). Part2 SEO: 이미지 전부 loading 속성 보유 확인, 이미 최신. Part4 뉴스: 카드수수료·POS·키오스크 소상공인 지원 신규 기사 재검색(지자체별 카드수수료 지원사업은 대부분 접수 종료)했으나 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "4a4007c"
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 검정고시(초졸/중졸/고졸) 제3회 접수 일정 등 재검색했으나 10월 기준 신규 공식 발표 확인 안 됨 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "1e86fec"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '강진군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음(학교 정보 사이트·과거 기사만 확인) → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "d5e5143"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '강릉시' 지역명 재검색했으나 10월 축제 기사 위주이고 학교 관련 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "0a36718"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "뉴스 추가",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 더팩트 기사(2026-10-07, WebFetch로 발행일·내용 검증 완료) '교육부 장관, 수시 원서접수 국가 직접 처리 검토' 추가 — 기존 10/6 기사(국정감사 개막·9월 원서접수 먹통 사태)의 후속 전개(장관의 실제 대응 발표, 경쟁률 공개 시점 변경 검토)로 단순 키워드 중복이 아닌 학부모에게 실질적으로 새로운 정보라고 판단해 반영. news.html 최상단에 2026-10-17 날짜로 삽입, sitemap lastmod 10/17 갱신.",
+      "commit": "afe9f39"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: global은 tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107) pre-existing 이슈로 npm run type-check가 계속 실패 — SEO 변경 없었으므로 해당 없음. Part4 뉴스: IB/AP/SAT/유학비자 신규 기사 재검색(검증 가능한 신규 기사 없음)했으나, 최상단 뉴스 날짜만 갱신하려는 시도도 type-check가 TS5107로 실패하여 Part4 지시사항('revert if it fails')에 따라 커밋 후 즉시 revert — 10/15에도 동일한 이슈로 revert된 전례와 일치. 결과적으로 이번 실행에서 global은 변경 없음(원상태 유지).",
+      "commit": "85f8d50(revert)"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '홍성군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "cc77f99"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '진주시'·'산청군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "54f5a79"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '영암군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "948c638"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '김해시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "a81ebe1"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '나주시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음(영어캠프·교육발전특구 등 과거 자료만 확인) → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "41580cf"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '전주시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "d6f3dbf"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '안동시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "7751217"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '경주시' 지역명 재검색했으나(학생승마 지원사업 등은 시점 안 맞음) 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "c1ca472"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '영천시' 지역명 재검색했으나(10/3 콘서트 기사는 교육적 의사결정과 무관) 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "1f93f79"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '영주시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 10/17 갱신.",
+      "commit": "1e944de"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 11분 소요 (시작 09:02~종료 09:14, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "레포 상태(Part1): 20개 저장소 전부 detached HEAD 상태로 시작 — branch -f main HEAD 후 checkout main으로 전체 복구하고 origin/main과 fast-forward 일치 확인 완료. 이후 git 상태 clean, sitemap.xml 전부 유효, news 최신(모두 10/16), CNAME/vercel.json 정상.",
+    "SEO(Part2): LK 엘케이(vendmachine)에서 touch-ui.jpg·customize.jpg 2개 이미지에 loading 속성이 비어 있던 것을 발견해 loading=\"lazy\"를 추가(카테고리 D, 이미지 최적화). 나머지 19개 저장소는 title/description/canonical/OG/twitter/schema(JSON-LD)/alt/robots.txt/sitemap을 전부 재점검했지만 이미 충실히 최적화되어 있어 억지로 변경하지 않음(키워드 스터핑 방지 원칙).",
+    "뉴스(Part4) 요약: 20개 사이트 전체에 대해 각 사이트의 실제 범위(지역명/과목/카테고리)에 맞춘 재검색을 genuine하게 수행. 그 결과 성적오름(shcool12) 1건만 기준(최근성·장소명·학부모 실질 유용성)을 충족하는 신규 기사를 찾아 추가했고, 나머지 19개 사이트는 기준을 낮추지 않고 최상단 뉴스 카드의 날짜만 오늘(2026-10-17)로 갱신함 — 뉴스 추가(신규 기사)는 1건.",
+    "뉴스 추가: 성적오름 | 2026-10-17 | 교육부 장관 \"수시 원서접수 국가가 직접 맡는 방안 검토\"… 경쟁률 공개도 마감 후로 | https://news.tf.co.kr/read/life/2373890.htm",
+    "날짜 갱신: 한글완전정복 | 2026-10-17",
+    "날짜 갱신: 코딩미 | 2026-10-17",
+    "날짜 갱신: 잉글리시이지 | 2026-10-17",
+    "날짜 갱신: LK 엘케이 | 2026-10-17",
+    "날짜 갱신: 성공적인 창업 | 2026-10-17",
+    "날짜 갱신: 스터디123 | 2026-10-17",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-17",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-17",
+    "날짜 갱신: 홍성과외 | 2026-10-17",
+    "날짜 갱신: 진주산청과외 | 2026-10-17",
+    "날짜 갱신: 영암과외 | 2026-10-17",
+    "날짜 갱신: 김해과외 | 2026-10-17",
+    "날짜 갱신: 나주과외 | 2026-10-17",
+    "날짜 갱신: 전주과외 | 2026-10-17",
+    "날짜 갱신: 안동과외 | 2026-10-17",
+    "날짜 갱신: 경주과외 | 2026-10-17",
+    "날짜 갱신: 영천과외 | 2026-10-17",
+    "날짜 갱신: 영주과외 | 2026-10-17",
+    "국제학교전문과외(global): tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107)로 npm run type-check가 계속 실패 — pre-existing 이슈임을 before/after diff로 재확인(뉴스 날짜 편집과 무관하게 동일한 에러만 발생). 그럼에도 Part4 지시사항 'revert if it fails'을 문자 그대로 따르고 10/15의 동일 전례(커밋 후 당일 revert)와 일관성을 유지하기 위해 커밋했던 뉴스 날짜 갱신을 즉시 revert — 이번 실행에서 global은 변경 없음. tsconfig.app.json에 '\"ignoreDeprecations\": \"6.0\"'을 추가하면 영구히 해결 가능하나, 프롬프트 지시에 따라 직접 수정하지 않음 — 사용자 승인 시 수정 권장(이 권장은 여러 날 반복되고 있음)."
+  ]
+}
