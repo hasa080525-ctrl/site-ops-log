@@ -1,0 +1,179 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-18",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1: detached HEAD로 시작 → branch -f main HEAD 후 checkout main으로 복구, origin/main과 일치 확인. sitemap 유효, git clean, CNAME 정상. Part2 SEO: title/description/schema/alt/robots.txt 재점검 — 이미 최신이라 변경 불필요. Part4 뉴스: 유아·초등 한글·문해력 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "09c7a92"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 초·중등 코딩·AI교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "8e7bdc0"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "C(BreadcrumbList 구조화데이터)",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 전체 페이지 BreadcrumbList 스키마 커버리지 점검 중 camp.html(겨울캠프 페이지)에만 빠져있는 것을 발견 — 다른 페이지와 동일 패턴으로 BreadcrumbList JSON-LD 추가, JSON 유효성 검증 완료, sitemap lastmod 갱신. Part4 뉴스: 수능영어·영어교육 신규 기사 재검색했으나 기존 기사와 중복되어 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 별도 커밋으로 갱신.",
+      "commit": "03d54c9 (SEO), 6f9366c (뉴스 날짜)"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: schema/alt/robots.txt 재점검 — 이미 최신. Part4 뉴스: 무인자판기·소상공인 창업 신규 기사 재검색(블로그성 자료 위주, 1차 언론기사 없음)했으나 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "2694b4f"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구; 렌탈 서비스 없음·실제 모델명 제약 재확인, 위반 없음). Part2 SEO: 이미 최신. Part4 뉴스: 카드수수료·POS·키오스크 소상공인 지원 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "09c431a"
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "뉴스 추가",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 내외일보 기사(2026-09-10 게재, WebFetch로 발행일·내용 검증 완료) '인천시교육청, 2026년 제2회 검정고시 합격증서 수여식(응시 2,135명 중 1,868명 합격, 82세 최고령 합격자)' 추가 — 기존에 다룬 당진·부산·전남광주 사례와 다른 지역이며 검정고시 준비생에게 실질적으로 유용한 신규 사례로 판단. news.html 최상단에 오늘 날짜로 삽입, sitemap lastmod 갱신.",
+      "commit": "ac8507d"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '강진군' 지역명 재검색(강진교육지원청/강진군 학교 소식)했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "3f51566"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '강릉시' 지역명 재검색(강릉교육지원청/강릉시 학교 소식)했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "35ecb51"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: 전국 초중고 입시·교육정책 신규 기사 재검색(수시 원서접수 추가접수 3,184건·AI교과서 소송 등 확인)했으나 모두 기존 10/16~17 기사와 동일 사안의 이전 단계라 중복 판단 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "0d0cba2"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "applied",
+      "category": "뉴스 추가",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107) pre-existing 이슈로 npm run type-check가 변경 전에도 실패 — SEO 변경 없었으므로 해당 없음. Part4 뉴스: 내외일보 기사(2026-10-16 게재, WebFetch로 발행일·내용 검증 완료) '시흥교육지원청, 서해중 IB MYP 월드스쿨 공개수업에 전국 교원 100여 명 참관' 추가 — src/mocks/news.ts 편집 후 type-check 재실행 결과 pre-existing TS5107 1건만 그대로 발생(편집으로 인한 신규 에러 없음)하여 '커밋 후 revert' 대신 그대로 커밋 유지. ※어제(10/17)는 동일한 TS5107 상황에서 뉴스 날짜 갱신을 커밋 후 즉시 revert했으나, 오늘은 Part2 지시사항의 'TS5107은 pre-existing known issue, skip만 하면 됨' 원칙을 Part4에도 동일하게 적용해 revert하지 않음 — flagged에 상세 기록.",
+      "commit": "fa3248b"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '홍성군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "bae41d9"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '진주시'·'산청군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "f6c228d"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '영암군' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "081359f"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '김해시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "15ec6c5"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '나주시' 지역명 재검색(구미-나주 학교운영위원장협의회 교류 등 확인했으나 학부모 의사결정과 무관)했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "9660eb3"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '전주시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "f6518b6"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '안동시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "7b27bb6"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '경주시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "ee4d9e3"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '영천시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "0ee06de"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 복구). Part2 SEO: 이미 최신. Part4 뉴스: '영주시' 지역명 재검색했으나 10월 기준 신규 검증 가능 기사 없음 → 최상단 뉴스 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "378fabb"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 18분 소요 (시작 09:15~종료 09:33, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "레포 상태(Part1): 20개 저장소 전부 detached HEAD 상태로 시작 — branch -f main HEAD 후 checkout main으로 전체 복구하고 origin/main과 fast-forward 일치 확인 완료. 이후 git 상태 clean, sitemap.xml 전부 유효, news 최신(모두 10/17), CNAME/vercel.json 정상.",
+    "SEO(Part2): 잉글리시이지(englisheasy) camp.html에 BreadcrumbList 구조화 데이터가 빠져있던 것을 발견해 추가(카테고리 C). 나머지 19개 저장소는 title/description/canonical/OG/twitter/schema(JSON-LD)/alt/robots.txt/sitemap/내부링크를 전부 재점검했지만 이미 충실히 최적화되어 있어 억지로 변경하지 않음(키워드 스터핑 방지 원칙).",
+    "global type-check 정책 변경 안내: 어제(10/17) 실행에서는 global의 pre-existing TS5107 에러 때문에 뉴스 날짜 갱신 커밋을 즉시 revert했습니다. 오늘은 Part2 지시사항이 TS5107을 'pre-existing known issue, 그냥 skip'으로 명시한 것과 동일한 원칙을 Part4에도 적용해, 편집 전/후 type-check를 비교해 '편집으로 새로 생긴 에러가 없음'을 확인한 뒤 revert하지 않고 그대로 커밋했습니다. 그 결과 global에 실제 뉴스 아이템(시흥 서해중 IB MYP 공개수업)이 반영됐습니다. 이 판단이 과거 방침과 다르므로, 사용자가 다르게 판단할 경우를 위해 명시적으로 플래그합니다 — tsconfig.app.json에 '\"ignoreDeprecations\": \"6.0\"'을 추가하면 이 에러 자체가 영구히 사라집니다.",
+    "뉴스(Part4) 요약: 20개 사이트 전체에 대해 각 사이트의 실제 범위(지역명/과목/카테고리)에 맞춰 WebSearch+WebFetch로 genuine하게 재검색. 기준(최근성·장소명 일치·학부모 실질 유용성)을 충족하는 신규 기사를 찾은 곳은 스터디123·국제학교전문과외 2곳. 나머지 18개 사이트는 기준을 낮추지 않고 최상단 뉴스 카드의 날짜만 오늘(2026-10-18)로 갱신.",
+    "뉴스 추가: 스터디123 | 2026-10-18 | 인천시교육청, 2026년 제2회 검정고시 합격증서 수여식 개최 — 응시 2,135명 중 1,868명 합격, 82세 최고령 합격자도 | https://www.naewoeilbo.com/news/articleView.html?idxno=2413600",
+    "뉴스 추가: 국제학교전문과외 | 2026-10-18 | 시흥교육지원청, 서해중 IB MYP 월드스쿨 공개수업에 전국 교원 100여 명 참관 | https://www.naewoeilbo.com/news/articleView.html?idxno=2433303",
+    "날짜 갱신: 한글완전정복 | 2026-10-18",
+    "날짜 갱신: 코딩미 | 2026-10-18",
+    "날짜 갱신: 잉글리시이지 | 2026-10-18",
+    "날짜 갱신: LK 엘케이 | 2026-10-18",
+    "날짜 갱신: 성공적인 창업 | 2026-10-18",
+    "날짜 갱신: 성적오름 | 2026-10-18",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-18",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-18",
+    "날짜 갱신: 홍성과외 | 2026-10-18",
+    "날짜 갱신: 진주산청과외 | 2026-10-18",
+    "날짜 갱신: 영암과외 | 2026-10-18",
+    "날짜 갱신: 김해과외 | 2026-10-18",
+    "날짜 갱신: 나주과외 | 2026-10-18",
+    "날짜 갱신: 전주과외 | 2026-10-18",
+    "날짜 갱신: 안동과외 | 2026-10-18",
+    "날짜 갱신: 경주과외 | 2026-10-18",
+    "날짜 갱신: 영천과외 | 2026-10-18",
+    "날짜 갱신: 영주과외 | 2026-10-18"
+  ]
+}
