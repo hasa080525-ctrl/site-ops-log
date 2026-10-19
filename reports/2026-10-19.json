@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-19",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 유아·초등 한글 과외 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "ba2005d"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 초·중등 코딩 교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "16a1daf"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 초중고 영어교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "1891a38"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 무인자판기·소상공인 창업 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "0f71e0e"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: POS·키오스크·카드수수료 소상공인 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "3ffa902"
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 검정고시 초중고졸 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "f3d9884"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '강진' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "13b7fd1"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '강릉' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "098b111"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 전국 초중고 성적·내신 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "64561b7"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: 국제학교/IB/AP/SAT/유학비자 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 (type-check: 기존 알려진 TS5107 alwaysStrict deprecation, 금일 수정과 무관한 사전 이슈) → 뉴스 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "e63faf1"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '홍성' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "eb61823"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '진주/산청' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "d1961ff"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '영암' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "a38d4b3"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '김해' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "8366979"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '나주' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "394c2e2"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '전주' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "ac41a3d"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '안동' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "b92011c"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '경주' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "66694c5"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '영천' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 영천교육지원청 '영천 고입9경' 고입설명회 기사(kbmaeil.com, 2026-09-22)를 후보로 검토했으나 해당 사이트 news.html에 2026.09.23자로 이미 게재된 기존 기사와 중복 → 신규 기사로 사용 불가, 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "b0244e3"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 detached HEAD 일괄 복구 → branch -f main HEAD 후 checkout main, origin/main과 실제 일치 확인; sitemap 유효, git clean, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선). Part2 SEO: meta title/description, 이미지 alt, schema.org, robots.txt, FAQPage 스키마 재점검 — 전일까지의 누적 최적화로 금일 신규 결함 없음, 변경 불필요. Part4 뉴스: '영주' 지역명이 본문/제목에 포함되고 지역 교육지원청 발표·학교 행사에 해당하는 최근 1~2개월 내 신규 기사를 재검색했으나, 지역명 포함 + 관련성 기준을 충족하는 검증 가능한 신규 기사를 찾지 못함 → news.html 최상단 카드 날짜만 오늘(2026-10-19)로 갱신, sitemap lastmod 갱신.",
+      "commit": "f5186fe"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 8분 소요 (시작 09:15~종료 09:23, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-10-19",
+    "날짜 갱신: 코딩미 | 2026-10-19",
+    "날짜 갱신: 잉글리시이지 | 2026-10-19",
+    "날짜 갱신: LK 엘케이 | 2026-10-19",
+    "날짜 갱신: 성공적인 창업 | 2026-10-19",
+    "날짜 갱신: 스터디123 | 2026-10-19",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-19",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-19",
+    "날짜 갱신: 성적오름 | 2026-10-19",
+    "날짜 갱신: 국제학교전문과외 | 2026-10-19",
+    "날짜 갱신: 홍성과외 | 2026-10-19",
+    "날짜 갱신: 진주산청과외 | 2026-10-19",
+    "날짜 갱신: 영암과외 | 2026-10-19",
+    "날짜 갱신: 김해과외 | 2026-10-19",
+    "날짜 갱신: 나주과외 | 2026-10-19",
+    "날짜 갱신: 전주과외 | 2026-10-19",
+    "날짜 갱신: 안동과외 | 2026-10-19",
+    "날짜 갱신: 경주과외 | 2026-10-19",
+    "날짜 갱신: 영천과외 | 2026-10-19",
+    "날짜 갱신: 영주과외 | 2026-10-19"
+  ]
+}
