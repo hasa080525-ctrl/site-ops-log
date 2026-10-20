@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-20",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news/process/teachers 4개 페이지 meta description이 47~67자로 지나치게 짧아 유아·초등 실제 서비스 범위를 반영해 78~92자로 보강, sitemap lastmod 갱신. Part4 뉴스: 유아 한글교육/문해력 관련 신규 기사 재검색했으나 2026년 10월 기준 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "502c412, 81ba648"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: meta description/canonical/schema.org/robots.txt/이미지 alt 전체 재점검 — 기존 최적화 상태 양호, 금일 신규 결함 없어 변경 불필요. Part4 뉴스: 초중등 코딩교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "c7cce40"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: meta description/canonical/schema.org/robots.txt/이미지 alt 전체 재점검 — 기존 최적화 상태 양호, 금일 신규 결함 없어 변경 불필요. Part4 뉴스: 초중고 영어교육·수능 영어 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "e1c7137"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: meta description/canonical/schema.org/robots.txt/이미지 alt 전체 재점검 — 기존 최적화 상태 양호, 금일 신규 결함 없어 변경 불필요. Part4 뉴스: 무인 자판기 업계·소상공인 창업 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "e033bae"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "applied",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: meta description/canonical/schema.org/robots.txt/이미지 alt 전체 재점검 — 기존 최적화 상태 양호, 금일 신규 결함 없어 변경 불필요. (대여/렌탈 서비스 없음 등 핵심 사실 불변 확인) Part4 뉴스: POS·키오스크 업계·소상공인 지원정책 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "8ff5156"
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: news.html meta description이 66자로 짧아 초·중·고졸 단계 구분을 반영해 86자로 보강, sitemap lastmod 갱신. Part4 뉴스: 검정고시(초·중·고졸) 신규 기사 재검색했으나 2026년 10월 기준 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d00200c, 55b1d53"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "A, E",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: process/curriculum/specialschools 3개 페이지 meta description 보강(54~68자→78~87자). 또한 sitemap.xml에 누락되어 있던 curriculum/process/roadmap/specialschools/teachers 5개 페이지를 신규 등록(사이트맵 완전성 결함 수정). Part4 뉴스: '강진' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나 관련성·지역명 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "44d0342, c8a0bd8"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "A, E",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news/process/schools 4개 페이지 meta description 보강(44~68자→75~101자). 또한 sitemap.xml에 누락되어 있던 process/roadmap/teachers 3개 페이지를 신규 등록(사이트맵 완전성 결함 수정). Part4 뉴스: '강릉' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나 관련성·지역명 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "89d300c, 8f792d4"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: news/specialschools/reviews/roadmap 4개 페이지 meta description 보강(67~68자→77~90자), sitemap lastmod 갱신. Part4 뉴스: 전국 초중고 입시·내신 신규 기사 재검색했으나 2026년 10월 기준 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "b3200e0, baec8c7"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO 및 Part4 뉴스(src/mocks/news.ts 날짜 갱신 시도) 모두 npm run type-check 선행 조건 미충족으로 스킵 — tsconfig.app.json의 'alwaysStrict=false' deprecated(TS5107) 에러는 금일 수정과 무관한 기존 알려진 이슈(수정 전부터 동일 에러 재현 확인)이며, 지시에 따라 tsconfig 직접 수정은 하지 않음. news.ts 날짜 변경분은 commit 없이 원복(git checkout)하여 저장소 깨끗한 상태 유지.",
+      "commit": ""
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "A, E",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news/process 3개 페이지 meta description 보강(44~65자→75~89자). 또한 sitemap.xml에 누락되어 있던 process/teachers 2개 페이지를 신규 등록(사이트맵 완전성 결함 수정). Part4 뉴스: '홍성' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나 관련성·지역명 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d8061d0, 6a611ea"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "A, E",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news/process 3개 페이지 meta description 보강(46~67자→77~93자). 또한 sitemap.xml에 누락되어 있던 process/teachers 2개 페이지를 신규 등록(사이트맵 완전성 결함 수정). Part4 뉴스: '진주/산청' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나 관련성·지역명 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "f8567bc, 0473ea8"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 영암 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '영암' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "255204e, 549a3d2"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 김해 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '김해' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d7fcb9f, 1f8754b"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 나주 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '나주' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "9d8b8eb, 87b8778"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 전주 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '전주' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "6b11729, 0c8db47"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 안동 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '안동' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "0b58780, bd8cea3"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 경주 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '경주' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "5976271, a76f5f5"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 영천 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '영천' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "86fb0aa, 4815279"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "A",
+      "detail": "Part1 이상 없음(전체 20개 저장소 git status clean, branch=main, detached HEAD 없음, sitemap XML 유효, CNAME/vercel.json 정상, 뉴스 전체 21일 이내 신선, 정렬 최신순 정상). Part2 SEO: faq/news 2개 페이지 meta description이 53~57자로 지나치게 짧아 영주 지역·학년 범위를 반영해 85~89자로 보강, sitemap lastmod 갱신. Part4 뉴스: '영주' 지역명 포함 지역 교육지원청·학교 행사 신규 기사를 재검색했으나(영천은 추가로 2018년도 기사가 최신으로 오검색되어 WebFetch로 발행일 검증 후 폐기) 관련성·지역명·신선도 기준을 충족하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "5b06278, 1abd927"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 13분 소요 (시작 09:15~종료 09:28, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-10-20",
+    "날짜 갱신: 코딩미 | 2026-10-20",
+    "날짜 갱신: 잉글리시이지 | 2026-10-20",
+    "날짜 갱신: LK 엘케이 | 2026-10-20",
+    "날짜 갱신: 성공적인 창업 | 2026-10-20",
+    "날짜 갱신: 스터디123 | 2026-10-20",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-20",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-20",
+    "날짜 갱신: 성적오름 | 2026-10-20",
+    "날짜 갱신: 홍성과외 | 2026-10-20",
+    "날짜 갱신: 진주산청과외 | 2026-10-20",
+    "날짜 갱신: 영암과외 | 2026-10-20",
+    "날짜 갱신: 김해과외 | 2026-10-20",
+    "날짜 갱신: 나주과외 | 2026-10-20",
+    "날짜 갱신: 전주과외 | 2026-10-20",
+    "날짜 갱신: 안동과외 | 2026-10-20",
+    "날짜 갱신: 경주과외 | 2026-10-20",
+    "날짜 갱신: 영천과외 | 2026-10-20",
+    "날짜 갱신: 영주과외 | 2026-10-20",
+    "참고: 국제학교전문과외(global)는 사전 존재 type-check 결함(TS5107)으로 뉴스 날짜 갱신도 스킵됨 (news added 없음)"
+  ]
+}
