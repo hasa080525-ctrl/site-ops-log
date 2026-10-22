@@ -1,0 +1,176 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-22",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음(detached HEAD 전체 20개 저장소에서 발견되어 branch -f main HEAD로 선복구 후 작업 진행; site-ops-log에 2026-10-21 커밋이 로컬에만 있던 것도 확인 후 재확인 — 실제로는 이미 원격에 반영되어 있었음). Part2 SEO: 유아·초등 한글 교육 특성상 늦가을~겨울방학(12~2월)에 한글 완성을 목표로 검색이 늘어나는 점을 반영해 meta keywords에 '겨울방학 한글떼기, 겨울방학 한글 과외, 7세 겨울방학 한글, 초등 입학 전 한글 완성' 4개 키워드 신규 추가(실제 사이트 타겟 속성인 유아·초등 한글에 부합, 허위 사업 주장 없음, 기존 60여개 키워드 대비 과도한 스터핑 아님), sitemap.xml 홈 lastmod 갱신. Part4 뉴스: 유아·초등 한글교육 신규 기사 재검색했으나 2026년 10월 기준 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d069539"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: 초중등 코딩교육 분야도 겨울방학 코딩캠프·특강 수요가 실제로 존재하는 점을 반영해 meta keywords에 '겨울방학 코딩캠프, 겨울방학 코딩 특강, 초등 겨울방학 코딩, 중등 겨울방학 코딩' 4개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: 초중등 코딩교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신(sitemap은 Part2에서 이미 오늘로 갱신됨).",
+      "commit": "28465f2"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description 길이(29자/105자), canonical·OG·twitter card·JSON-LD(FAQPage 포함) 재점검 — 기존 keywords에 이미 '겨울방학' 관련 키워드가 포함되어 있어 중복 추가 보류, 결함 없어 금일 추가 변경 없음(video/phone-only, 방문 없음 등 핵심 사실 불변 확인). Part4 뉴스: 초중고 영어교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "aa87e79"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description 길이(35자/89자), JSON-LD·OG·twitter 재점검 — 비교육 소상공인 타겟 특성상 겨울방학류 키워드 부적합, 다른 신규 키워드 기회 탐색했으나 키워드 스터핑 우려로 보류, 결함 없어 금일 추가 변경 없음. Part4 뉴스: 무인 자판기 업계·소상공인 창업 신규 기사 재검색(소진공 스마트상점 기술보급 2차 모집 등 확인했으나 접수기간 9/1~9/30으로 이미 마감되어 '지금 신청 가능' 기준 미충족으로 제외) — 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "28d7d85"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description 길이(29자/120자), JSON-LD·OG·twitter 재점검(대여/렌탈 서비스 없음, 실제 모델명 KIS-1020/KIS-8310/KIS-BTR 1100/Fiserv MPOS-1901AE 등 핵심 사실 불변 확인) — 결함 없어 금일 추가 변경 없음. Part4 뉴스: POS·키오스크 업계·소상공인 지원정책 신규 기사 재검색(소진공 스마트상점 2차 모집 9/1~9/30 마감 확인, 지자체별 카드수수료 지원도 대부분 접수 종료)했으나 지금 바로 유효한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d3fb9e2"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description 길이(23자/109자), JSON-LD·OG·twitter 재점검 — 검정고시 시험 일정(4월/8월 중심)상 '겨울방학' 프레이밍은 억지로 끼워맞추는 것으로 판단해 키워드 추가 보류, 결함 없어 금일 추가 변경 없음. Part4 뉴스: 검정고시(초·중·고졸) 신규 기사 재검색했으나 2026년 10월 기준 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "7acd564"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '강진 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가(실제 지역·학년 속성 기반, 허위 사업 주장 없음), sitemap.xml 홈 lastmod 갱신. /areas/ 하위 페이지는 지시대로 손대지 않음. Part4 뉴스: '강진' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "36706a4"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '강릉 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. /areas/ 하위 페이지는 지시대로 손대지 않음. Part4 뉴스: '강릉' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "1e9d860"
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description 길이(20자/91자), JSON-LD·OG·twitter 재점검 — 전국 대상 사이트로 keywords에 이미 '겨울방학' 포함, 결함 없어 금일 추가 변경 없음. Part4 뉴스: 전국 초중고 입시·교육정책 신규 기사 재검색했으나 신선도·사실성 기준을 통과하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "b82764a"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음, git status clean. node_modules 미설치 상태라 npm run type-check가 모듈 오류로 실패 → npm install 후 재실행하여 정상 통과 확인(설치 중 package-lock.json이 의도치 않게 변경되어 커밋 전 원복). Part2 SEO: keywords에 이미 '겨울캠프, 방학캠프, 여름방학 특강' 등 계절 키워드가 다수 포함돼 있고 전체 목록이 300여 개로 이미 매우 방대해 추가 스터핑 우려로 보류 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 국제학교/IB/AP/SAT/유학비자 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → src/mocks/news.ts 최신 항목(id 63) date 필드만 오늘로 갱신, public/sitemap.xml lastmod 갱신, type-check 재통과 확인 후 커밋.",
+      "commit": "076f6d9"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '홍성 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '홍성' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "e03c368"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '진주 겨울방학 과외, 산청 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 8개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '진주'/'산청' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "27f1906"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '영암 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '영암' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "3c9480f"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '김해 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '김해' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "e5f03c1"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '나주 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '나주' 지역명 포함 신규 기사 재검색했으나 나주 지역을 직접 다룬 신규 기사 자체가 검색되지 않아 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "be36bb2"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '전주 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '전주' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "adbe213"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '안동 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '안동' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "5042993"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '경주 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '경주' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "fda81bb"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '영천 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '영천' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "33ef391"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1 이상 없음. Part2 SEO: meta keywords에 '영주 겨울방학 과외, 겨울방학 특강, 겨울방학 집중과외, 초등/중등/고등 겨울방학 과외, 겨울방학 선행학습' 7개 신규 추가, sitemap.xml 홈 lastmod 갱신. Part4 뉴스: '영주' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "1d7b546"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 11분 소요 (시작 00:15~종료 00:26, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-10-22",
+    "날짜 갱신: 코딩미 | 2026-10-22",
+    "날짜 갱신: 잉글리시이지 | 2026-10-22",
+    "날짜 갱신: LK 엘케이 | 2026-10-22",
+    "날짜 갱신: 성공적인 창업 | 2026-10-22",
+    "날짜 갱신: 스터디123 | 2026-10-22",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-22",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-22",
+    "날짜 갱신: 성적오름 | 2026-10-22",
+    "날짜 갱신: 국제학교전문과외 | 2026-10-22",
+    "날짜 갱신: 홍성과외 | 2026-10-22",
+    "날짜 갱신: 진주산청과외 | 2026-10-22",
+    "날짜 갱신: 영암과외 | 2026-10-22",
+    "날짜 갱신: 김해과외 | 2026-10-22",
+    "날짜 갱신: 나주과외 | 2026-10-22",
+    "날짜 갱신: 전주과외 | 2026-10-22",
+    "날짜 갱신: 안동과외 | 2026-10-22",
+    "날짜 갱신: 경주과외 | 2026-10-22",
+    "날짜 갱신: 영천과외 | 2026-10-22",
+    "날짜 갱신: 영주과외 | 2026-10-22",
+    "참고: 오늘은 20개 사이트 모두 검증 가능한 신규 기사가 없어 '날짜 갱신'만 적용됨(news_added 없음). Google Sheet에는 위 '날짜 갱신' 20건만 반영하면 됨. 참고로 SEO는 14개 사이트(한글완전정복, 코딩미, 강진/강릉/홍성/진주산청/영암/김해/나주/전주/안동/경주/영천/영주 과외)에 '겨울방학' 관련 키워드 확장(Category F)을 적용했고, 나머지 6개(잉글리시이지, LK 엘케이, 성공적인 창업, 스터디123, 성적오름, 국제학교전문과외)는 이미 충분히 최적화되어 있어 금일 추가 변경 없음."
+  ]
+}
