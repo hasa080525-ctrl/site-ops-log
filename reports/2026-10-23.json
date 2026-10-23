@@ -1,0 +1,176 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-23",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD 20개 저장소 전체에서 발견되어 branch -f main HEAD로 선복구 후 작업 진행, 이후 git status clean/원격과 동기화 확인). Part2 SEO: title/description/schema.org JSON-LD(3개)/이미지 alt 재점검 — 결함 없고 이미 충분히 최적화되어 있어 금일 추가 변경 없음. Part4 뉴스: 유아·초등 한글교육 신규 기사 재검색(2회)했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "420eb55"
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt(0건 누락)·JSON-LD 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 초중등 코딩교육 신규 기사 재검색(디지털새싹 캠프 등 확인했으나 7월 모집건으로 비신선)했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "0e4d9fd"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 수능 영어·초중고 영어교육 신규 기사 재검색(2회)했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "a2d9d0a"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 무인 자판기 업계·소상공인 창업 지원 신규 기사 재검색했으나 공식 공고/뉴스성 검증 가능한 신규 기사 없음(대부분 블로그성 자료) → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "ffc30cf"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검(대여/렌탈 서비스 없음, 실제 모델명 KIS-1020/KIS-8310/KIS-BTR 1100/Fiserv MPOS-1901AE 등 핵심 사실 불변 확인) — 결함 없어 금일 추가 변경 없음. Part4 뉴스: POS·키오스크·카드수수료 소상공인 지원 신규 기사 재검색(부산 동백전 카드수수료 지원 등 확인했으나 11월 접수 예정으로 '지금 유효' 기준 미충족, 지역 한정) → 검증 가능한 신규 기사 없음, index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d978235"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 검정고시(초·중·고졸) 신규 기사 재검색했으나 검증 가능한 신규 기사 없음(8월 제2회 검정고시 수여식 소식만 재확인, 이미 반영됨) → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "c776cf4"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. /areas/ 하위 페이지는 지시대로 손대지 않음. Part4 뉴스: '강진' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "d95a77f"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. /areas/ 하위 페이지는 지시대로 손대지 않음. Part4 뉴스: '강릉' 지역명 포함 신규 기사 재검색(명주초 스쿨팜 개장식 등 확인했으나 교육정책·결정에 도움 안 되는 행사성 기사로 판단해 제외) → 검증 가능한 신규 기사 없음, news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "ed38f12"
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 전국 초중고 입시·교육정책 신규 기사 재검색(국정감사 문항거래·채용차별·사학비리 쟁점 등 확인했으나 구체적 사실관계 검증 불가)했으나 신선도·사실성 기준을 통과하는 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "7f673e9"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음, git status clean. node_modules 미설치 상태라 npm run type-check가 모듈 오류로 실패 → npm install 후 재실행하여 정상 통과 확인(설치 중 package-lock.json이 의도치 않게 변경되어 커밋 전 원복). Part2 SEO: 결함 없어 금일 추가 변경 없음. Part4 뉴스: 국제학교/IB/AP/SAT/유학비자 신규 기사 재검색(전북 전주부설초·회현초 IB PYP 인증 등 확인했으나 8월 3일자로 1~2개월 기준 초과)했으나 검증 가능한 신규 기사 없음 → src/mocks/news.ts 최신 항목(id 63) date 필드만 오늘로 갱신, public/sitemap.xml lastmod 2건 갱신, type-check 재통과 확인 후 커밋.",
+      "commit": "a0d1d4b"
+    },
+    {
+      "site": "홍성과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '홍성' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "5b0699c"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '진주'/'산청' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "4aed8d1"
+    },
+    {
+      "site": "영암과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '영암' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "c45bca2"
+    },
+    {
+      "site": "김해과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '김해' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "526e7ef"
+    },
+    {
+      "site": "나주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '나주' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "ee51621"
+    },
+    {
+      "site": "전주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '전주' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "2937828"
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '안동' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "18a0c77"
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '경주' 지역명 포함 신규 기사 재검색(2026 경북 사생·백일장대회 등 기존 기사 재확인)했으나 신규 검증 가능한 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "2f768af"
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '영천' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "fcb14f1"
+    },
+    {
+      "site": "영주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음. Part2 SEO: title/description·이미지 alt 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '영주' 지역명 포함 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "cb7d098"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 12분 소요 (시작 09:15~종료 09:26, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-10-23",
+    "날짜 갱신: 코딩미 | 2026-10-23",
+    "날짜 갱신: 잉글리시이지 | 2026-10-23",
+    "날짜 갱신: LK 엘케이 | 2026-10-23",
+    "날짜 갱신: 성공적인 창업 | 2026-10-23",
+    "날짜 갱신: 스터디123 | 2026-10-23",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-23",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-23",
+    "날짜 갱신: 성적오름 | 2026-10-23",
+    "날짜 갱신: 국제학교전문과외 | 2026-10-23",
+    "날짜 갱신: 홍성과외 | 2026-10-23",
+    "날짜 갱신: 진주산청과외 | 2026-10-23",
+    "날짜 갱신: 영암과외 | 2026-10-23",
+    "날짜 갱신: 김해과외 | 2026-10-23",
+    "날짜 갱신: 나주과외 | 2026-10-23",
+    "날짜 갱신: 전주과외 | 2026-10-23",
+    "날짜 갱신: 안동과외 | 2026-10-23",
+    "날짜 갱신: 경주과외 | 2026-10-23",
+    "날짜 갱신: 영천과외 | 2026-10-23",
+    "날짜 갱신: 영주과외 | 2026-10-23",
+    "참고: 오늘은 20개 사이트 모두 검증 가능한 신규 기사가 없어 '날짜 갱신'만 적용됨(news_added 없음). Google Sheet에는 위 '날짜 갱신' 20건만 반영하면 됨. SEO는 20개 사이트 모두 title/description/alt/JSON-LD를 재점검했으나 기존 상태가 이미 양호해 금일 추가 변경 없음(전날까지의 누적 최적화로 추가 기회가 소진된 것으로 판단됨)."
+  ]
+}
