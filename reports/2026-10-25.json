@@ -1,0 +1,176 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-25",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 유아·초등 한글교육 신규 기사 재검색했으나 2026년 10월 기준 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "1675f8f"
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 초중등 코딩교육 정책 신규 기사 재검색했으나 검증 가능한 2026년 10월 기준 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "a1cce2a"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 초중고 영어교육 정책 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "830a6ed"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 무인 자판기·키오스크 업계 동향 재검색했으나 대부분 해외 시장조사 보고서뿐이고 국내 검증 가능한 신규 기사 없음 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "42ebc60"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). 대여/렌탈 서비스 없음·실제 모델명(KIS-1020/KIS-8310/KIS-BTR 1100/Fiserv MPOS-1901AE) 핵심 사실 불변 확인. Part2 SEO: title/description·alt·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 소상공인 카드수수료 지원 신규 기사 검색 중 '대구 달성군 카드수수료 지원 확대' 기사를 찾았으나 이미 어제(10/24) 동일 기사로 추가되어 있어 중복으로 제외 → index.html 인라인 뉴스 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "b240b03"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검(faq.html lastmod 2026-09-16은 실제 최종 수정일과 일치하여 정상) — 결함 없어 금일 추가 변경 없음. Part4 뉴스: 검정고시(초·중·고졸) 제3회 시행계획 공고 재검색했으나 아직 공고 전으로 검증 가능한 신규 기사 없음(제2회 8/11 시행분만 확인) → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "e13b77e"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). /areas/ 생성 페이지 미수정 확인. Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '강진' 지역명이 실제 포함된 교육지원청·학교 소식 재검색했으나 검증 가능한 신규 기사 없음(검색 결과는 창원·구미·칠곡 등 타 지역 소식뿐) → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "045e1d2"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). /areas/ 생성 페이지 미수정 확인. Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '강릉' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음(강원 고교학점제 박람회 기사는 강릉 개최 여부 불명확하여 제외) → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "db4aa59"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: sitemap.xml lastmod가 실제 최종 커밋일과 불일치하는 것을 발견 — camp.html/teachers.html/regions.html/process.html 4개 페이지가 실제로는 2026-10-20에 수정됐으나 sitemap에는 2026-09-22로 표시되어 있어 정합성 수정(category E, 커밋 034a2ae). Part4 뉴스: 전국 초중고 교육정책 신규 기사 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "034a2ae / fc434c0"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). node_modules 미설치 상태였어 npm install 후 type-check 정상 통과 확인(TS5107 이슈 없음, package-lock.json은 버전차로 인한 불필요한 변경이라 되돌림). Part2 SEO: title/description·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: IB/AP/SAT/유학비자 신규 기사 재검색했으나 어제(10/24) 추가한 '시흥 서해중 IB MYP 공개수업' 이후 검증 가능한 신규 기사 없음 → src/mocks/news.ts 최상단 항목 date만 오늘로 갱신, public/sitemap.xml의 /news, /news/63 lastmod 갱신.",
+      "commit": "8259b44"
+    },
+    {
+      "site": "홍성과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '홍성' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "ef3511d"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '진주' 또는 '산청' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "f032f0f"
+    },
+    {
+      "site": "영암과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '영암' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음(영암군 카드수수료 지원 기사는 3월 자료로 기간 기준 미달) → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "cbaefac"
+    },
+    {
+      "site": "김해과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '김해' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 채용·자원봉사 공고만 확인되고 학부모에게 유용한 정책/행사성 기사는 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "52fca34"
+    },
+    {
+      "site": "나주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '나주' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 구미-나주 학교운영위원장 교류 협약(9/17) 외 10월 기준 신규 기사 없음(해당 기사도 학부모 실익 정보로 보기 어려워 제외) → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "efb6949"
+    },
+    {
+      "site": "전주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '전주' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "64c9a36"
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '안동' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 학생맞춤통합지원위원회(6월)·급식 위생교육(8월) 외 10월 기준 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "cd9d185"
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '경주' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "5b39a91"
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '영천' 지역명이 실제 포함된 교육지원청 소식 재검색 중 '영천 고입9경' 기사(경북매일 9/22)를 확인했으나 이미 9/23자로 기존 카드에 반영되어 있어 중복 제외 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "0f19f0c"
+    },
+    {
+      "site": "영주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1 이상 없음(detached HEAD만 발견→수정). Part2 SEO: title/description·alt·JSON-LD·sitemap lastmod 재점검 — 결함 없어 금일 추가 변경 없음. Part4 뉴스: '영주' 지역명이 실제 포함된 교육지원청 소식 재검색했으나 검증 가능한 신규 기사 없음 → news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "f0ee30e"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 9분 소요 (시작 09:15~종료 09:24, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-10-25",
+    "날짜 갱신: 코딩미 | 2026-10-25",
+    "날짜 갱신: 잉글리시이지 | 2026-10-25",
+    "날짜 갱신: LK 엘케이 | 2026-10-25",
+    "날짜 갱신: 성공적인 창업 | 2026-10-25",
+    "날짜 갱신: 스터디123 | 2026-10-25",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-25",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-25",
+    "날짜 갱신: 성적오름 | 2026-10-25",
+    "날짜 갱신: 국제학교전문과외 | 2026-10-25",
+    "날짜 갱신: 홍성과외 | 2026-10-25",
+    "날짜 갱신: 진주산청과외 | 2026-10-25",
+    "날짜 갱신: 영암과외 | 2026-10-25",
+    "날짜 갱신: 김해과외 | 2026-10-25",
+    "날짜 갱신: 나주과외 | 2026-10-25",
+    "날짜 갱신: 전주과외 | 2026-10-25",
+    "날짜 갱신: 안동과외 | 2026-10-25",
+    "날짜 갱신: 경주과외 | 2026-10-25",
+    "날짜 갱신: 영천과외 | 2026-10-25",
+    "날짜 갱신: 영주과외 | 2026-10-25",
+    "참고: 오늘(2026-10-25)은 20개 사이트 모두 신선·연관·지역명 일치 기준을 통과하는 검증 가능한 신규 기사를 찾지 못해 신규 뉴스 추가는 0건이며, 전 사이트 '날짜 갱신'만 적용됨(정상적인 결과). SEO는 성적오름(shcool12) 1곳에서 sitemap.xml lastmod 불일치(4개 페이지)를 바로잡았고(category E), 나머지 19곳은 title/description/alt/JSON-LD/sitemap 모두 재점검했으나 이미 양호해 추가 변경 없음. 국제학교전문과외(global)는 node_modules 미설치로 type-check가 실패했었으나 npm install 후 정상 통과 확인(TS5107 이슈 아님)."
+  ]
+}
