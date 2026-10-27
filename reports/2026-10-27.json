@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-27",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상(git clean, main, sitemap valid, news 최신). Part2: sitemap.xml lastmod 날짜 불일치 수정(index/curriculum/teachers/process/reviews/faq, 실제 최종 수정일 기준, commit 3a881c0). Part4: 유아·초등 한글 신규 적합 기사 재검색했으나 검증 가능한 신규 기사 없어(검색 결과 대부분 날짜 불명확/과거 기사) news.html 최상단 카드 날짜만 오늘로 갱신, sitemap lastmod 갱신.",
+      "commit": "0332555"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(elementary/middle/high, commit 87212f2). Part4: 초중등 코딩교육 신규 기사 재검색했으나(정보교사 부족 기사 등은 이미 기존 카드에 반영) 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "7c4db6e"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(camp.html, commit 612f7be). Part4: 초중고 영어교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "f92d76e"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상. Part2: sitemap lastmod 재점검 — 불일치 없어 변경 없음. Part4: 무인 자판기·소상공인 창업지원 신규 기사 재검색했으나(검색 결과 대부분 시장조사 보고서·블로그) 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "d9b6c20"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(대여/렌탈 서비스 없음, 실제 모델명 KIS-1020/KIS-8310/KIS-BTR 1100/Fiserv MPOS-1901AE 불변 확인, nav 구조·vendmachine 교차링크 유지 확인). Part2: sitemap lastmod 재점검 — 불일치 없어 변경 없음. Part4: 소상공인 카드수수료·키오스크 지원 재검색했으나 신규 발견 기사(대구 달성군 카드수수료 지원 확대 등)는 이미 기존 카드에 반영되어 중복, 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "75e4053"
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/target/subjects/method/formats/why/process/faq, commit d5c876f). Part4: 하남시학교밖청소년지원센터 2026년 검정고시 85명 합격 기사 신규 추가(비전21뉴스, 2026-09-17 게재 확인, 기존 카드와 중복 아님, commit 029924a).",
+      "commit": "029924a"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상(/areas/ 미수정 확인). Part2: sitemap.xml lastmod 불일치 수정(index/guide/schools/reviews/faq/curriculum/process/roadmap/specialschools/teachers, commit e7b3026). Part4: 강진(강진군) 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "792f548"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상(/areas/ 미수정 확인). Part2: sitemap.xml lastmod 불일치 수정(index/about/reviews/faq/schools/process/roadmap/teachers, commit 65c2c5d). Part4: 강릉시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "86565e8"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상(shcool12 원격 선행 커밋 없음 확인 후 push). Part2: sitemap.xml lastmod 불일치 수정(index/roadmap/math/english/korean/teachers/specialschools/regions/reviews/process/faq, commit ff7009a). Part4: 전국 초중고 신규 기사 재검색 — '초등 저학년 오후 3시 하교' 논쟁 기사는 의견성 칼럼으로 사실 확인 한계가 있어 보류, 기존 '국정감사' 카드와 중복 우려도 있어 검증 가능한 신규 기사로 보지 않음 → news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "57a3d8c"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: npm install 후 type-check 통과 확인, public/sitemap.xml 홈(/) lastmod 불일치 수정(commit 4472936). Part4: IB/AP/SAT/유학비자 신규 기사 재검색 — '대구 IB 월드스쿨 하반기 공개수업' 후보는 WebFetch로 확인한 결과 2025-10-13 게재(1년 이상 경과)로 기간 미달 확인, 그 외 검증 가능한 신규 기사 없어 src/mocks/news.ts 최상단 항목 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "9187b8e"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/math/english/korean/about/reviews/faq, commit 07a5035). Part4: 홍성(홍성군) 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "f6b38cc"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq/math/english/korean, commit c51021e). Part4: 진주시·산청군 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "8f0cebb"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 7b422e0). Part4: 영암(영암군) 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "5b0a667"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 865cbdc). Part4: 김해시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "296eab8"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 83ed8c5). Part4: 나주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "5460615"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 52c38bf). Part4: 전주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "f572e51"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit f649b86). Part4: 안동시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "1a6718c"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 0758ae2). Part4: 경주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "0cbd036"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 0a9a518). Part4: 영천시 지역명 매칭 신규 기사 재검색 — '영천 고입9경' 관련 기사 후보는 기존 카드(2026.09.23)와 중복 확인되어 제외, 그 외 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "83b50ae"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "Part1: 정상. Part2: sitemap.xml lastmod 불일치 수정(index/schools/roadmap/about/reviews/faq, commit 66a4ee3). Part4: 영주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "01690aa"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 14분 소요 (시작 09:15~종료 09:29, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "뉴스 추가: 스터디123 | 2026-10-27 | 하남시학교밖청소년지원센터, 2026년 검정고시 85명 합격 — 1·2차 합산 성과 | https://www.vision21.kr/news/article.html?no=620713",
+    "날짜 갱신: 한글완전정복 | 2026-10-27",
+    "날짜 갱신: 코딩미 | 2026-10-27",
+    "날짜 갱신: 잉글리시이지 | 2026-10-27",
+    "날짜 갱신: LK 엘케이 | 2026-10-27",
+    "날짜 갱신: 성공적인 창업 | 2026-10-27",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-27",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-27",
+    "날짜 갱신: 성적오름 | 2026-10-27",
+    "날짜 갱신: 국제학교전문과외 | 2026-10-27",
+    "날짜 갱신: 홍성과외 | 2026-10-27",
+    "날짜 갱신: 진주산청과외 | 2026-10-27",
+    "날짜 갱신: 영암과외 | 2026-10-27",
+    "날짜 갱신: 김해과외 | 2026-10-27",
+    "날짜 갱신: 나주과외 | 2026-10-27",
+    "날짜 갱신: 전주과외 | 2026-10-27",
+    "날짜 갱신: 안동과외 | 2026-10-27",
+    "날짜 갱신: 경주과외 | 2026-10-27",
+    "날짜 갱신: 영천과외 | 2026-10-27",
+    "날짜 갱신: 영주과외 | 2026-10-27"
+  ]
+}
