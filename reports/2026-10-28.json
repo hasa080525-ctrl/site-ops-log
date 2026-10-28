@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-10-28",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(git clean, 이전 detached HEAD는 branch -f main HEAD로 복구). Part2: 메타/스키마/robots 이미 충분히 최적화되어 있어 안전하게 추가할 변경 없음(키워드 스터핑 방지). Part4: 유아·초등 한글 문해력 관련 신규 적합 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "94c2f85"
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: 키워드/스키마 이미 충분히 최적화되어 있어(초등 정보 34시간, 중학교 정보 68시간 등 실제 교육과정 수치 포함) 추가 변경 없음. Part4: 초·중등 코딩교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "b3b408b"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: 기말고사 관련 키워드 등 이미 반영되어 있어 추가 변경 없음. Part4: 초중고 영어교육 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "edbc7ae"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: 메타/스키마 재점검 — 추가 변경 없음. Part4: 무인 자판기·소상공인 창업지원 신규 기사 재검색했으나(대부분 블로그·광고성 콘텐츠) 검증 가능한 신규 기사 없어 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "1f1fa3b"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구, 대여/렌탈 서비스 없음·실제 모델명 불변 확인). Part2: 메타/스키마 재점검 — 추가 변경 없음. Part4: 대구 달성군 소상공인 카드수수료 지원 확대 기사(경북매일, 2026-10-21 게재, WebFetch 검증)를 발견했으나 기존 2026.10.27 카드와 동일 기사로 중복 확인되어 제외, 홈 인라인 뉴스 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "71241ce"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: 메타/스키마 재점검 — 추가 변경 없음. Part4: 검정고시(초졸/중졸/고졸) 3회차 일정 등 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "2065c21"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "F",
+      "detail": "Part1: 정상(detached HEAD 복구, /areas/ 미수정 확인). Part2: 신규/연관 키워드 확장 — meta keywords에 '강진 중간고사 대비, 강진 기말고사 대비' 추가(실제 서비스 범위인 내신 관리와 직결, 키워드 스터핑 아님), commit 3058799. Part4: 강진(강진군) 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "3058799"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구, /areas/ 미수정 확인). Part2: meta keywords에 '강릉 중간고사 대비, 강릉 기말고사 대비' 추가 + 학년별 과정 소개 본문에 '중간고사·기말고사 대비부터 학기 중 내신 관리까지' 문구 보강, commit 2a29aaa. Part4: 강릉시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "2a29aaa"
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구, shcool12 원격 선행 커밋 없음 확인 후 push). Part2: 기말고사 관련 키워드 등 이미 반영되어 있어 추가 변경 없음. Part4: 전국 초중고 학업성취도·기초학력 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "f5c215e"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: npm install 후 type-check 통과 확인 — 메타/스키마 재점검, 추가 변경 없음. Part4: IB/AP/SAT/유학비자 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 src/mocks/news.ts 최상단 항목 날짜만 갱신, public/sitemap.xml lastmod(/news, /news/63) 갱신.",
+      "commit": "6c6ec54"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '홍성 중간고사 대비, 홍성 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit 70c5298. Part4: 홍성(홍성군) 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "70c5298"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '진주/산청 중간고사 대비, 진주/산청 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit a38cabe. Part4: 진주시·산청군 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "a38cabe"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '영암 중간고사 대비, 영암 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit 430dd96. Part4: 영암(영암군) 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "430dd96"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '김해 중간고사 대비, 김해 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit b403e88. Part4: 김해시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "b403e88"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '나주 중간고사 대비, 나주 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit fb8d6a6. Part4: 나주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "fb8d6a6"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '전주 중간고사 대비, 전주 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit 41f5f4d. Part4: 전주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "41f5f4d"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '안동 중간고사 대비, 안동 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit b466c95. Part4: 안동시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "b466c95"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '경주 중간고사 대비, 경주 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit c2bb082. Part4: 경주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "c2bb082"
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: 중간고사·기말고사 키워드 등 이미 반영되어 있어 추가 변경 없음. Part4: 영천시 지역명 매칭 신규 기사 재검색했으나(영천 고입9경 행사는 2026-09-22 기사로 2주 경과, 날짜 미부합) 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "eeafa98"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "B,F",
+      "detail": "Part1: 정상(detached HEAD 복구). Part2: meta keywords에 '영주 중간고사 대비, 영주 기말고사 대비' 추가 + 학년별 과정 본문 보강, commit 3c85dec. Part4: 영주시 지역명 매칭 신규 기사 재검색했으나 검증 가능한 신규 기사 없어 news.html 최상단 카드 날짜만 갱신, sitemap lastmod 갱신.",
+      "commit": "3c85dec"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 11분 소요 (시작 09:15~종료 09:27, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-10-28",
+    "날짜 갱신: 코딩미 | 2026-10-28",
+    "날짜 갱신: 잉글리시이지 | 2026-10-28",
+    "날짜 갱신: LK 엘케이 | 2026-10-28",
+    "날짜 갱신: 성공적인 창업 | 2026-10-28",
+    "날짜 갱신: 스터디123 | 2026-10-28",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-10-28",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-10-28",
+    "날짜 갱신: 성적오름 | 2026-10-28",
+    "날짜 갱신: 국제학교전문과외 | 2026-10-28",
+    "날짜 갱신: 홍성과외 | 2026-10-28",
+    "날짜 갱신: 진주산청과외 | 2026-10-28",
+    "날짜 갱신: 영암과외 | 2026-10-28",
+    "날짜 갱신: 김해과외 | 2026-10-28",
+    "날짜 갱신: 나주과외 | 2026-10-28",
+    "날짜 갱신: 전주과외 | 2026-10-28",
+    "날짜 갱신: 안동과외 | 2026-10-28",
+    "날짜 갱신: 경주과외 | 2026-10-28",
+    "날짜 갱신: 영천과외 | 2026-10-28",
+    "날짜 갱신: 영주과외 | 2026-10-28"
+  ]
+}
