@@ -22,7 +22,7 @@
     {"site": "경주과외", "status": "skipped", "category": "", "detail": "메타/설명/alt/스키마/robots·sitemap/내부링크 전체 점검 결과 이상 없음, 추가 개선 여지 없음. (뉴스는 국립경주박물관 청소년 프로그램 신규 기사 추가로 갱신 — flagged 참고)", "commit": "c9ef3fc"},
     {"site": "영천과외", "status": "skipped", "category": "", "detail": "메타/설명/alt/스키마/robots·sitemap/내부링크 전체 점검 결과 이상 없음, 추가 개선 여지 없음. 영천 돌봄·교육센터 개관 기사 후보를 검토했으나 검증 중 실제로는 안동시 기사로 확인되어 미사용. 뉴스 날짜만 갱신.", "commit": "9ce5e4f"},
     {"site": "영주과외", "status": "skipped", "category": "", "detail": "메타/설명/alt/스키마/robots·sitemap/내부링크 전체 점검 결과 이상 없음, 추가 개선 여지 없음. 뉴스 날짜만 갱신.", "commit": "ff72d0d"},
-    {"site": "⏱ 소요시간", "status": "info", "category": "", "detail": "총 16분 소요 (시작 00:15~종료 00:31, KST 기준)", "commit": ""}
+    {"site": "⏱ 소요시간", "status": "info", "category": "", "detail": "총 14분 소요 (시작 09:15~종료 09:29, KST 기준)", "commit": ""}
   ],
   "flagged": [
     "뉴스 추가: 경주과외 | 2026-11-06 | 국립경주박물관, 중·고생 대상 '2026 경주청소년박물관학교' 11월 7~8일 운영 | https://www.gyeongju.go.kr/youthcareer/?m=bbs&bid=notice&uid=994",
