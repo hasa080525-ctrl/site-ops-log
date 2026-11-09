@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-11-09",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "BreadcrumbList·메타·OG·JSON-LD 이미 최적화 상태로 SEO 변경 불필요, 뉴스 날짜만 갱신",
+      "commit": "뉴스:c48fefb"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:16e09f6, 뉴스:5de95cb"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:03ef1ef, 뉴스:5f79f6b"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:d6dd101, 뉴스:32de469"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:6e73370, 뉴스:b00e001"
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:66b0fbb, 뉴스:60e426d"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:ad00577, 뉴스:edd7eaa"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:7853a03, 뉴스:d3b2bfd"
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "BreadcrumbList·메타·OG·JSON-LD 이미 최적화 상태로 SEO 변경 불필요, 뉴스 날짜만 갱신",
+      "commit": "뉴스:7f02f41"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가(type-check 통과), sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:f3e2c9c, 뉴스:ea926ab"
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:fbe044d, 뉴스:02e0143"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:75ab54d, 뉴스:4ebf86a"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:456673f, 뉴스:8b86074"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:b26d091, 뉴스:0aef73d"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:15da773, 뉴스:ef4f230"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가, sitemap lastmod 갱신 / 뉴스 날짜 갱신",
+      "commit": "SEO:89d8ffe, 뉴스:b148b65"
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "BreadcrumbList·메타·OG·JSON-LD 이미 최적화 상태로 SEO 변경 불필요, 뉴스 날짜만 갱신",
+      "commit": "뉴스:c494d16"
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "BreadcrumbList·메타·OG·JSON-LD 이미 최적화 상태로 SEO 변경 불필요, 뉴스 날짜만 갱신",
+      "commit": "뉴스:6e9f20b"
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "BreadcrumbList·메타·OG·JSON-LD 이미 최적화 상태로 SEO 변경 불필요, 뉴스 날짜만 갱신",
+      "commit": "뉴스:ba90b43"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "C",
+      "detail": "홈페이지에 BreadcrumbList 구조화 데이터(JSON-LD) 추가 / 뉴스: 영주교육지원청 학교 주변 청소년 술·담배 판매금지 캠페인 기사 추가",
+      "commit": "SEO:16c9f47, 뉴스:27c72b0"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 12분 소요 (시작 00:15~종료 00:27, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "뉴스 추가: 영주과외 | 2026-11-09 | 영주교육지원청, 학교 주변 청소년 대상 술·담배 판매금지 캠페인 | https://www.kbmaeil.com/article/20261029500218",
+    "날짜 갱신: 한글완전정복 | 2026-11-09",
+    "날짜 갱신: 코딩미 | 2026-11-09",
+    "날짜 갱신: 잉글리시이지 | 2026-11-09",
+    "날짜 갱신: LK 엘케이 | 2026-11-09",
+    "날짜 갱신: 성공적인 창업 | 2026-11-09",
+    "날짜 갱신: 스터디123 | 2026-11-09",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-11-09",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-11-09",
+    "날짜 갱신: 성적오름 | 2026-11-09",
+    "날짜 갱신: 국제학교전문과외 | 2026-11-09",
+    "날짜 갱신: 홍성과외 | 2026-11-09",
+    "날짜 갱신: 진주산청과외 | 2026-11-09",
+    "날짜 갱신: 영암과외 | 2026-11-09",
+    "날짜 갱신: 김해과외 | 2026-11-09",
+    "날짜 갱신: 나주과외 | 2026-11-09",
+    "날짜 갱신: 전주과외 | 2026-11-09",
+    "날짜 갱신: 안동과외 | 2026-11-09",
+    "날짜 갱신: 경주과외 | 2026-11-09",
+    "날짜 갱신: 영천과외 | 2026-11-09"
+  ]
+}
