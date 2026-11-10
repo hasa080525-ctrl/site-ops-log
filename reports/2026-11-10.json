@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-11-10",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:b503739"
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:c9bf723"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:26df00c"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:5c4f408"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:6294f82"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:b16f8e8"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:9f70d51"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:c25b08c"
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:daa7fe5"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:34d4dd2"
+    },
+    {
+      "site": "홍성과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:1d3a472"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:aa1aae9"
+    },
+    {
+      "site": "영암과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:d1b5ec1"
+    },
+    {
+      "site": "김해과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:cbfddf5"
+    },
+    {
+      "site": "나주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:8c660f1"
+    },
+    {
+      "site": "전주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:8c83507"
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:96add8e"
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:e658004"
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:e68c305"
+    },
+    {
+      "site": "영주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 미확인 신규 적합 기사 없어 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:e3666d8"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 8분 소요 (시작 09:15~종료 09:23, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-11-10",
+    "날짜 갱신: 코딩미 | 2026-11-10",
+    "날짜 갱신: 잉글리시이지 | 2026-11-10",
+    "날짜 갱신: LK 엘케이 | 2026-11-10",
+    "날짜 갱신: 성공적인 창업 | 2026-11-10",
+    "날짜 갱신: 스터디123 | 2026-11-10",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-11-10",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-11-10",
+    "날짜 갱신: 성적오름 | 2026-11-10",
+    "날짜 갱신: 국제학교전문과외 | 2026-11-10",
+    "날짜 갱신: 홍성과외 | 2026-11-10",
+    "날짜 갱신: 진주산청과외 | 2026-11-10",
+    "날짜 갱신: 영암과외 | 2026-11-10",
+    "날짜 갱신: 김해과외 | 2026-11-10",
+    "날짜 갱신: 나주과외 | 2026-11-10",
+    "날짜 갱신: 전주과외 | 2026-11-10",
+    "날짜 갱신: 안동과외 | 2026-11-10",
+    "날짜 갱신: 경주과외 | 2026-11-10",
+    "날짜 갱신: 영천과외 | 2026-11-10",
+    "날짜 갱신: 영주과외 | 2026-11-10"
+  ]
+}
