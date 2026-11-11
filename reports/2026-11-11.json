@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-11-11",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:960d3df"
+    },
+    {
+      "site": "코딩미",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:629d1fe"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:1f3dc92"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:c4d29f5"
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:4e61568"
+    },
+    {
+      "site": "스터디123",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:363d9dc"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:3049d11"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:dd99018"
+    },
+    {
+      "site": "성적오름",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:f7b9c7b"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검, type-check 통과 확인 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:bcb3f79"
+    },
+    {
+      "site": "홍성과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:9874ded"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 진주·산청 교육혁신선도지역 선정 기사 등 기존 커버리지 확인, 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:2f4183a"
+    },
+    {
+      "site": "영암과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 영암군 교육혁신선도지역 선정 기사 등 기존 커버리지 확인, 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:06c89bc"
+    },
+    {
+      "site": "김해과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:ae80b9b"
+    },
+    {
+      "site": "나주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:aa5ab71"
+    },
+    {
+      "site": "전주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:ad7ef15"
+    },
+    {
+      "site": "안동과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:47866b1"
+    },
+    {
+      "site": "경주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 검색 결과 기준 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:1fcca3e"
+    },
+    {
+      "site": "영천과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 영천시 교육혁신선도지역 선정 기사 등 기존 커버리지 확인, 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:a473e4f"
+    },
+    {
+      "site": "영주과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "메타/OG/스키마(JSON-LD)/robots.txt/sitemap/H1 전수 점검 결과 이미 최적화 상태로 SEO 변경 불필요 / 뉴스: 영주시 교육혁신선도지역 선정 기사 등 기존 커버리지 확인, 신규 적합 기사 미확인, 최신 뉴스 날짜만 오늘로 갱신",
+      "commit": "뉴스:f2a94b3"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 10분 소요 (시작 09:15~종료 09:25, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-11-11",
+    "날짜 갱신: 코딩미 | 2026-11-11",
+    "날짜 갱신: 잉글리시이지 | 2026-11-11",
+    "날짜 갱신: LK 엘케이 | 2026-11-11",
+    "날짜 갱신: 성공적인 창업 | 2026-11-11",
+    "날짜 갱신: 스터디123 | 2026-11-11",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-11-11",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-11-11",
+    "날짜 갱신: 성적오름 | 2026-11-11",
+    "날짜 갱신: 국제학교전문과외 | 2026-11-11",
+    "날짜 갱신: 홍성과외 | 2026-11-11",
+    "날짜 갱신: 진주산청과외 | 2026-11-11",
+    "날짜 갱신: 영암과외 | 2026-11-11",
+    "날짜 갱신: 김해과외 | 2026-11-11",
+    "날짜 갱신: 나주과외 | 2026-11-11",
+    "날짜 갱신: 전주과외 | 2026-11-11",
+    "날짜 갱신: 안동과외 | 2026-11-11",
+    "날짜 갱신: 경주과외 | 2026-11-11",
+    "날짜 갱신: 영천과외 | 2026-11-11",
+    "날짜 갱신: 영주과외 | 2026-11-11"
+  ]
+}
