@@ -1,0 +1,175 @@
+{
+  "type": "seo_log",
+  "date": "2026-11-13",
+  "entries": [
+    {
+      "site": "한글완전정복",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 실제 파일 최종 수정일(curriculum/teachers/process/reviews/faq 등)에 맞춰 동기화",
+      "commit": "bbaf80d"
+    },
+    {
+      "site": "코딩미",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 elementary/middle/high 페이지 실제 수정일에 맞춰 동기화",
+      "commit": "82ed73f"
+    },
+    {
+      "site": "잉글리시이지",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 camp.html 실제 수정일에 맞춰 동기화",
+      "commit": "00171d4"
+    },
+    {
+      "site": "LK 엘케이",
+      "status": "skipped",
+      "category": "",
+      "detail": "robots.txt/JSON-LD/alt/캐노니컬/sitemap 모두 이미 최신 상태 — 오늘 적용할 변경 없음",
+      "commit": ""
+    },
+    {
+      "site": "성공적인 창업",
+      "status": "skipped",
+      "category": "",
+      "detail": "robots.txt/JSON-LD/alt/캐노니컬/sitemap 모두 이미 최신 상태 — 오늘 적용할 변경 없음",
+      "commit": ""
+    },
+    {
+      "site": "스터디123",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 target/subjects/method/formats/why/process/faq 실제 수정일에 맞춰 동기화",
+      "commit": "feb9c07"
+    },
+    {
+      "site": "1등급만들기(강진과외)",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 guide/schools/reviews/faq/curriculum/process/roadmap/specialschools/teachers 실제 수정일에 맞춰 동기화",
+      "commit": "103e30e"
+    },
+    {
+      "site": "탄탄과외(강릉과외)",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 about/reviews/faq/schools/process/roadmap/teachers 실제 수정일에 맞춰 동기화",
+      "commit": "322d7a7"
+    },
+    {
+      "site": "성적오름",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 camp/roadmap/math/english/korean/teachers/specialschools/regions/reviews/process/faq 실제 수정일에 맞춰 동기화",
+      "commit": "502a6cd"
+    },
+    {
+      "site": "국제학교전문과외",
+      "status": "skipped",
+      "category": "",
+      "detail": "sitemap.xml은 prerender 스크립트로 자동 생성되는 대용량 파일(/guide 등 수백 개 URL)이라 수동 편집 제외; type-check는 정상 통과",
+      "commit": ""
+    },
+    {
+      "site": "홍성과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/math/english/korean/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "6515287"
+    },
+    {
+      "site": "진주산청과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq/math/english/korean 실제 수정일에 맞춰 동기화",
+      "commit": "15ece7d"
+    },
+    {
+      "site": "영암과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "166e611"
+    },
+    {
+      "site": "김해과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "9be3926"
+    },
+    {
+      "site": "나주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "f13fd3a"
+    },
+    {
+      "site": "전주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "87ae25a"
+    },
+    {
+      "site": "안동과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "ba7fa88"
+    },
+    {
+      "site": "경주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "3805693"
+    },
+    {
+      "site": "영천과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "1b101bd"
+    },
+    {
+      "site": "영주과외",
+      "status": "applied",
+      "category": "E",
+      "detail": "sitemap.xml lastmod을 schools/roadmap/about/reviews/faq 실제 수정일에 맞춰 동기화",
+      "commit": "0822b38"
+    },
+    {
+      "site": "⏱ 소요시간",
+      "status": "info",
+      "category": "",
+      "detail": "총 11분 소요 (시작 09:15~종료 09:26, KST 기준)",
+      "commit": ""
+    }
+  ],
+  "flagged": [
+    "날짜 갱신: 한글완전정복 | 2026-11-13",
+    "날짜 갱신: 코딩미 | 2026-11-13",
+    "날짜 갱신: 잉글리시이지 | 2026-11-13",
+    "날짜 갱신: LK 엘케이 | 2026-11-13",
+    "날짜 갱신: 성공적인 창업 | 2026-11-13",
+    "날짜 갱신: 스터디123 | 2026-11-13",
+    "날짜 갱신: 1등급만들기(강진과외) | 2026-11-13",
+    "날짜 갱신: 탄탄과외(강릉과외) | 2026-11-13",
+    "날짜 갱신: 성적오름 | 2026-11-13",
+    "날짜 갱신: 국제학교전문과외 | 2026-11-13",
+    "날짜 갱신: 홍성과외 | 2026-11-13",
+    "날짜 갱신: 진주산청과외 | 2026-11-13",
+    "날짜 갱신: 영암과외 | 2026-11-13",
+    "날짜 갱신: 김해과외 | 2026-11-13",
+    "날짜 갱신: 나주과외 | 2026-11-13",
+    "날짜 갱신: 전주과외 | 2026-11-13",
+    "날짜 갱신: 안동과외 | 2026-11-13",
+    "날짜 갱신: 경주과외 | 2026-11-13",
+    "날짜 갱신: 영천과외 | 2026-11-13",
+    "날짜 갱신: 영주과외 | 2026-11-13"
+  ]
+}
